@@ -5,9 +5,9 @@ import React from "react";
 function ProductsListing() {
   return (
     <section className="row">
-      {/* {products.map((product) => (
-        <ItemCard ... />
-      ))} */}
+      { {products.map((product) => (
+<ItemCard.../>
+      ))} }
     </section>
   );
 }
